@@ -2,7 +2,9 @@
 
 
 ## Background
-I have decided to treat my family to a long overdue holiday in Honolulu, Hawaii.  To help plan our trip, I decided to do a climate analysis about the area.  The following sections outline the steps that I needed to take to accomplish this task.
+I have decided to treat my family to a long overdue holiday in Honolulu, Hawaii.  
+To help plan our trip, I decided to do a climate analysis about the area.  
+The following sections outline the steps that I needed to take to accomplish this task.
 
 ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/db3a42e1-7c58-430c-8346-5156593b3e6f)
 
@@ -10,7 +12,7 @@ ________________________________________
 
 ## Part 1:	Analysed and Explored the Climate Data
 
-For this part of the challenge, I have used Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database.  
+For this part of the challenge, I have used Python and SQLAlchemy to do a basic climate analysis and data exploration of my climate database.  
 
 Specifically, I used SQLAlchemy ORM queries, Pandas, and Matplotlib and completed the following steps:
 
