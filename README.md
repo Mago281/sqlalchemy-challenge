@@ -28,6 +28,7 @@ Specifically, I used SQLAlchemy ORM queries, Pandas, and Matplotlib and complete
 ---
 
 i.	Found the most recent date in the dataset; used this date and got the previous 12 months of precipitation data by querying the previous 12 months of data:
+
    ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/daf9c2b7-2389-44a5-8cef-2191a9370a05)
 
 ii.	Ensured not to pass the date as a variable to my query.
