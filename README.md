@@ -25,6 +25,7 @@ Specifically, I used SQLAlchemy ORM queries, Pandas, and Matplotlib and complete
 ---
 
 #### •	Precipitation Analysis
+---
 
 i.	Found the most recent date in the dataset; used this date and got the previous 12 months of precipitation data by querying the previous 12 months of data.
 
