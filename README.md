@@ -44,6 +44,7 @@ vi.	Plotted the results by using the DataFrame plot method, as the following ima
 
 
 vii.	Used Pandas to print the summary statistics for the precipitation data:
+
    ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/e3a3007f-5539-423a-97c9-67cd4c5fa06a)
 
 
