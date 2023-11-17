@@ -44,7 +44,8 @@ vi.	Plotted the results by using the DataFrame plot method, as the following ima
 
 
 vii.	Used Pandas to print the summary statistics for the precipitation data:
-      ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/e3a3007f-5539-423a-97c9-67cd4c5fa06a)
+
+   ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/e3a3007f-5539-423a-97c9-67cd4c5fa06a)
 
 
 ---
@@ -55,10 +56,14 @@ vii.	Used Pandas to print the summary statistics for the precipitation data:
 i.	Designed a query to calculate the total number of stations in the dataset.
 
 ii.	Designed a query to find the most-active stations (i.e. the stations that had the most rows).  To achieve this, the following steps were completed:
-  o	Used functions such as func.min, func.max, func.avg, and func.count	 in my queries.
+      ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/1a6a4ce7-44e3-4d37-8f5e-8dc854c3d845)
+
+  o	Used functions such as *func.min*, *func.max*, *func.avg*, and *func.count* in my queries.
   o	Listed the stations and observation counts in descending order.
   o	Answered the following question: which station id has the greatest number of observations?
+      ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/2222d835-8645-4c17-a3ef-2c4892812303)
   o	Used the most-active station id to calculate the lowest, highest, and average temperatures.
+      ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/a0bfde2c-8327-4efa-97f0-ad4292c6c136)
 
 iii.	Designed a query to get the previous 12 months of temperature observation (TOBS) data.  To do this, I completed the following steps:
   o	Filtered by the station that had the greatest number of observations.
