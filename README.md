@@ -27,7 +27,8 @@ Specifically, I used SQLAlchemy ORM queries, Pandas, and Matplotlib and complete
 #### •	Precipitation Analysis
 ---
 
-i.	Found the most recent date in the dataset; used this date and got the previous 12 months of precipitation data by querying the previous 12 months of data.
+i.	Found the most recent date in the dataset; used this date and got the previous 12 months of precipitation data by querying the previous 12 months of data:
+   ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/daf9c2b7-2389-44a5-8cef-2191a9370a05)
 
 ii.	Ensured not to pass the date as a variable to my query.
 
@@ -41,7 +42,9 @@ vi.	Plotted the results by using the DataFrame plot method, as the following ima
    ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/8ca4a851-5b3c-47b9-b937-c7947068accb)
 
 
-vii.	Use Pandas to print the summary statistics for the precipitation data.
+vii.	Used Pandas to print the summary statistics for the precipitation data:
+      ![image](https://github.com/Mago281/sqlalchemy-challenge/assets/131424690/e3a3007f-5539-423a-97c9-67cd4c5fa06a)
+
 
 ---
 
